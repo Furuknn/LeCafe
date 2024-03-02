@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3031BB14-8DCF-0CA7-D5A1-6E6E11A461B8}|Assembly-CSharp.csproj|C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.1)\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031BB14-8DCF-0CA7-D5A1-6E6E11A461B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031BB14-8DCF-0CA7-D5A1-6E6E11A461B8}|Assembly-CSharp.csproj|C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.1)\\assets\\scripts\\wavesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031BB14-8DCF-0CA7-D5A1-6E6E11A461B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031BB14-8DCF-0CA7-D5A1-6E6E11A461B8}|Assembly-CSharp.csproj|c:\\users\\indir\\onedrive\\unity projects\\lecafe (0.1)\\assets\\scripts\\customerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031BB14-8DCF-0CA7-D5A1-6E6E11A461B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\customerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031BB14-8DCF-0CA7-D5A1-6E6E11A461B8}|Assembly-CSharp.csproj|C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.1)\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031BB14-8DCF-0CA7-D5A1-6E6E11A461B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.1)\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.1)\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCcAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T13:51:40.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.1)\\Assets\\Scripts\\CustomerBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CustomerBehaviour.cs",
+              "ToolTip": "C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.1)\\Assets\\Scripts\\CustomerBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CustomerBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T13:41:50.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.1)\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.1)\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T13:07:55.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaveSystem.cs",
+              "DocumentMoniker": "C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.1)\\Assets\\Scripts\\WaveSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveSystem.cs",
+              "ToolTip": "C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.1)\\Assets\\Scripts\\WaveSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveSystem.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T08:55:09.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
