@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AB8972-E11B-77D4-9321-B564D7D8FFB6}|Assembly-CSharp.csproj|C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.2)\\assets\\scripts\\customerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AB8972-E11B-77D4-9321-B564D7D8FFB6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\customerbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AB8972-E11B-77D4-9321-B564D7D8FFB6}|Assembly-CSharp.csproj|c:\\users\\indir\\onedrive\\unity projects\\lecafe (0.2)\\assets\\scripts\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AB8972-E11B-77D4-9321-B564D7D8FFB6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AB8972-E11B-77D4-9321-B564D7D8FFB6}|Assembly-CSharp.csproj|c:\\users\\indir\\onedrive\\unity projects\\lecafe (0.2)\\assets\\scripts\\chairsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AB8972-E11B-77D4-9321-B564D7D8FFB6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chairsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.2)\\Assets\\Scripts\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.2)\\Assets\\Scripts\\CustomerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CustomerManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T10:07:25.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.2)\\Assets\\Scripts\\CustomerBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CustomerBehaviour.cs",
+              "ToolTip": "C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.2)\\Assets\\Scripts\\CustomerBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CustomerBehaviour.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwDQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:54:36.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChairSystem.cs",
+              "DocumentMoniker": "C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.2)\\Assets\\Scripts\\ChairSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChairSystem.cs",
+              "ToolTip": "C:\\Users\\indir\\OneDrive\\Unity Projects\\LeCafe (0.2)\\Assets\\Scripts\\ChairSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChairSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:54:15.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
